@@ -3,3 +3,5 @@ Shopping list
 - Beer(12 bottles)
 - Food
 -Coffe powder
+-Egg
+-Meat
